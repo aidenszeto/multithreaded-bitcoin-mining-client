@@ -1,0 +1,17 @@
+[[package]]
+name = "pearpy"
+version = "0.1.2"
+description = "A Python package for writing multithreaded code."
+category = "main"
+optional = false
+python-versions = "^3.8"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "7fbf87275bdc11f5258affa6c7f7c20ef5f12bc6ca006a95a407fc26dbc13d8e"
+
+[metadata.files]
+pearpy = [
+    {file = "pearpy-0.1.2.tar.gz", hash = "sha256:8e9f7c14683714e15a1e9220b45d8cbb6e9d33c6b7d12f0dfcac684b29741c3e"},
+]
