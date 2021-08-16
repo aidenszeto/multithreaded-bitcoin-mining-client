@@ -36,6 +36,8 @@ class Client():
                 self.nonce += 1
 
             self.lock.release()
+        
+        print("\n")
 
     def run(self, threads):
         block_data_hexadecimal_value = int(self.block_data, 16)
